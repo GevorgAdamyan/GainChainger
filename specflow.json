@@ -1,0 +1,19 @@
+{
+    "stepAssemblies": [
+      {
+        "assembly": "Gainchainger"
+      }
+    ],
+    "generator": {
+      "allowDebugGeneratedFiles": true,
+      "generateAsyncTests": true,
+      "projectName": "Gainchainger",
+      "defaultNamespace": "Gainchainger",
+      "specFlowPlusRunner": false,
+      "specFlowSeleniumDriver": false
+    },
+    "language": {
+      "feature": "en-US"
+    }
+  }
+  
