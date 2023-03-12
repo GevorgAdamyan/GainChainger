@@ -63,7 +63,6 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 ## Note
 
 Find the generated JSON file in this directory:
-
     ```
     bin\Debug\
     ```
